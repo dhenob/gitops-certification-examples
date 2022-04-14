@@ -14,3 +14,4 @@ spec:
       name: paypal-cert
       namespace: default
     type: Opaque
+
